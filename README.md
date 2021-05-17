@@ -1,4 +1,4 @@
-# Pantmanager
+# Plantmanager
 
 React Native com Expo
 
